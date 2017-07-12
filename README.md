@@ -1,5 +1,5 @@
 English:
-This repository translates from englisg to Pig Latin 
+This repository translates from english to Pig Latin 
 
 To can use it you have to follow the next steps:
 1°Open your CMD and change the folder in where the
@@ -10,8 +10,8 @@ files are (TIP: Use cd command)
 palabra>", there is where you have to write the
 word that you want to translate
 
-Follow me on Twitter: @quarketone
-Add me on Telegram: @quarketon
+Follow me on Twitter: @quarketone -
+ Add me on Telegram: @quarketon
 
 **************************************************
 
@@ -28,5 +28,5 @@ comando "python main.py"
 "Ingresa una palabra>", escribe la palabra
 que desees traducir a pig latin.
 
-Sigueme en Twitter: @quarketone
-Agregame en Telegram: @quarketon
+Sigueme en Twitter: @quarketone -
+ Agregame en Telegram: @quarketon
