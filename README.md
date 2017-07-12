@@ -10,8 +10,8 @@ files are (TIP: Use cd command)
 palabra>", there is where you have to write the
 word that you want to translate
 
-Sigueme en Twitter: @quarketone
-Agregame en Telegram: @quarketon
+Follow me on Twitter: @quarketone
+Add me on Telegram: @quarketon
 
 **************************************************
 
